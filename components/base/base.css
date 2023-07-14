@@ -5984,8 +5984,12 @@ button.bg-900:focus {
   }
 
   .brandName{
-	float: left; margin-top: 40px !important; color: #1b3860; margin-left: 10px;
+	float: left; margin-top: 25px !important; color: #1b3860; margin-left: 10px;
 	font-weight : bold;
+  }
+
+  .brandNameSpan{
+	font-size: 15px; display: inline-block; margin-left: 10px; color: #1b3860; font-weight:bold
   }
 
 
